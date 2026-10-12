@@ -8,7 +8,7 @@
 
 ## 中文
 
-你好，我是 LouFung（冯璐）。
+你好，我是 LouFung。
 
 用一部旧手机，构建一些安静的小东西。
 
@@ -20,7 +20,7 @@
 
 - 主页：https://loufung.cn
 - 小c：https://c.loufung.cn
-- 钢琴：https://loufung.cn/piano.html
+- 钢琴：https://piano.loufung.cn
 
 **技术栈：**
 
@@ -51,7 +51,7 @@ Building quiet little things with an old phone.
 
 - Home: https://loufung.cn
 - Xiaoci: https://c.loufung.cn
-- Piano: https://loufung.cn/piano.html
+- Piano: https://piano.loufung.cn
   **Stack:**
 
 - HTML / CSS / vanilla JavaScript
